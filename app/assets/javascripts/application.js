@@ -15,5 +15,5 @@
 //= require bootstrap/dist/js/bootstrap.bundle
 //= require rails-ujs
 //= require activestorage
-//= require turbolink
+//= require turbolinks
 //= require_tree .
